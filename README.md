@@ -10,8 +10,9 @@
 ## Thanks to all the Contributers -
 
 <a href="https://github.com/yash-gulatii/Open-Source_Projects/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=yash-gulatii/Open-Source_Projects" />
+  <img src="https://contrib.rocks/image?repo=yash-gulatii/Open-Source_Projects" />
 </a>
+
 
 ## How to Contribute in Hacktoberfest 2023?
 
